@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -57,10 +57,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -85,14 +85,14 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#7e9b9f!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -106,7 +106,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-102x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -120,7 +120,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KRISTEEN GUERRA</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bio. With Picture\nand Film\n</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Goals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Continuation &nbsp;of</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bio with picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADOBE ILLUSTRATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADOBE PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MICROSOFT WORD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MOBIRISE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp; &nbsp;ADOBE PHOTOSHOP<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RESUME</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEACHER 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEACHER 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAMILY FRIEND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">COMMUNITY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bio. With Picture\nand Film\n</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Goals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Continuation &nbsp;of</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bio with picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADOBE ILLUSTRATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADOBE PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MICROSOFT WORD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MOBIRISE</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PERSONAL GALLERY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FX MAKEUP</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><p>&nbsp; &nbsp;ADOBE PHOTOSHOP<br></p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RESUME</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEACHER 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEACHER 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAMILY FRIEND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">COMMUNITY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -175,13 +175,23 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
-          "_inherit": "features3",
+          "_inherit": "features4",
           "_tags": [
             "Theme"
           ],
-          "_name": "features6",
-          "_anchor": "features6-2",
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-4",
           "_params": {
+            "iconsBgColor": "@primaryColor",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -201,19 +211,18 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "profile-female",
-              "family": "et-line",
+              "name": "user2",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": "",
-              "newWindow": false,
-              "color": "#4c6972"
+              "size": 0,
+              "color": "#fff"
             }
           },
           "title1": "FX Makeup Artist",
@@ -222,14 +231,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "camera",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#4c6972"
+              "color": "#fff"
             }
           },
           "title2": "Photographer",
@@ -238,14 +247,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
               "name": "change-style",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#4c6972"
+              "color": "#fff"
             }
           },
           "title3": "Animator",
@@ -254,14 +263,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "desctop",
+              "name": "website-theme",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#4c6972"
+              "color": "#fff"
             }
           },
           "title4": "Graphic Designer",
@@ -271,10 +280,11 @@
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -285,10 +295,11 @@
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "#fff",
               "family": "et-line"
             }
           },
