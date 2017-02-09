@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0942",
-    "currentPage": "index.html",
+    "currentPage": "Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -959,7 +959,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-copy-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mdcps-logo-copy-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "MDCPS Logo",
                 "active": false
               },
               {
@@ -1064,7 +1064,7 @@
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
