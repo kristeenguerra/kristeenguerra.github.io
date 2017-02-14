@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -472,14 +471,6 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
-}
-#slider2-p .mbr-section-title,
-#slider2-p .mbr-section-lead {
-  color: #fff;
-}
-#header2-1 .mbr-section-text {
-  text-align: center;
-  font-family: 'Raleway', sans-serif;
 }
 #features7-4 .card-subtitle {
   color: #bcbcbc;
