@@ -472,6 +472,15 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
 }
+#slider3-v B {
+  text-align: center;
+}
+#slider3-v H2 {
+  text-align: center;
+}
+#slider3-v SPAN {
+  text-align: center;
+}
 #features7-4 .card-subtitle {
   color: #bcbcbc;
 }
