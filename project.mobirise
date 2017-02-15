@@ -164,7 +164,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/starwarskristeen-2000x666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -178,15 +178,15 @@
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "image": "@PROJECT_PATH@/assets/images/sleeping-wolf-layer-adjustment-kristeen-guerra-2000x1250.jpg",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Adobe Photoshop",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">I do things in photoshop&nbsp;</span>",
+                "text": "<span style=\"font-style: normal;\">I edited some of my pieces in photoshop</span>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click for more</a> "
               }
