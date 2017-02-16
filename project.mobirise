@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 43,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -216,7 +216,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "images": [
               {
@@ -236,7 +236,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/0530101e-ca02-43a5-b795-48c96ac1c662-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/0530101e-ca02-43a5-b795-48c96ac1c662-2000x2000.jpg",
-                "caption": "Blue Grotto in Capri Italy",
+                "caption": "Blue Grotto in Capri, Italy",
                 "active": false
               },
               {
@@ -246,7 +246,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/7be978b2-3a38-4dcc-86ff-8d686382a73c-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/7be978b2-3a38-4dcc-86ff-8d686382a73c-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Trevi Fountain in Rome, Italy&nbsp;",
                 "active": false
               },
               {
@@ -256,14 +256,14 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1bd02873-1c2c-4fae-a6b3-f1c16522a637-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1bd02873-1c2c-4fae-a6b3-f1c16522a637-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Colosseum in Rome, Italy",
                 "active": true
               }
             ],
             "spacing": "0",
-            "showText": false,
+            "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
@@ -271,6 +271,26 @@
           "_anchor": "gallery3-z",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_inherit": "msg-box8",
@@ -291,7 +311,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-14",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -314,6 +334,29 @@
           "title": "Adobe Premiere Pro",
           "text": "Incoming video",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch My Videos</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#f28281"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "&nbsp;",
+          "meta": ""
         },
         {
           "_tags": [

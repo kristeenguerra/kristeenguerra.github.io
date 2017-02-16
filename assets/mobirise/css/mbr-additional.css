@@ -481,6 +481,10 @@ h6,
 #slider3-v SPAN {
   text-align: center;
 }
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box3-14 .mbr-section-title,
 #msg-box3-14 p {
   color: #000;
@@ -490,6 +494,13 @@ h6,
 }
 #msg-box3-14 .lead {
   color: #ffffff;
+}
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-16 H3 {
+  color: #f28281;
 }
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
