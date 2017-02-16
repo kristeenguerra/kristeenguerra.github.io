@@ -481,6 +481,16 @@ h6,
 #slider3-v SPAN {
   text-align: center;
 }
+#msg-box3-14 .mbr-section-title,
+#msg-box3-14 p {
+  color: #000;
+}
+#msg-box3-14 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-14 .lead {
+  color: #ffffff;
+}
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
