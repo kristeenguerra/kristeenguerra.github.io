@@ -502,6 +502,10 @@ h6,
 #header3-16 H3 {
   color: #f28281;
 }
+#social-buttons4-1k .mbr-section-title,
+#social-buttons4-1k .btn-social {
+  color: #fff;
+}
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
