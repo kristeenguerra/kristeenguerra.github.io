@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0942",
-    "currentPage": "index.html",
+    "currentPage": "Current Project",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2104,6 +2104,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kristeen-guerra-groups-10-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/kristeen-guerra-groups-10-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kristeen-guerra-groups-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kristeen-guerra-groups-11-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kristeen-guerra-groups-12-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kristeen-guerra-groups-12-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
