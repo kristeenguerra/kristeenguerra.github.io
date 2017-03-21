@@ -1070,3 +1070,7 @@ h6,
 #ext_menu-1q .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
 }
+#msg-box6-1u .mbr-section-title,
+#msg-box6-1u .lead p {
+  color: #fff;
+}
