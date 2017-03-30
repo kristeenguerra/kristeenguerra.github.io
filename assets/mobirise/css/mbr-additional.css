@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -497,10 +499,13 @@ h6,
   color: #28324e;
 }
 #msg-box2-1x .mbr-section-title {
-  color: #191d26;
+  color: #ffffff;
 }
 #msg-box2-1x .mbr-section-subtitle {
-  color: #22252e;
+  color: #ffffff;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
 }
 #social-buttons4-1k .mbr-section-title,
 #social-buttons4-1k .btn-social {

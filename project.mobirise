@@ -146,7 +146,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-01-10-10-29-2000x2528.png",
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -252,7 +252,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Examples of my work"
+          "text": "My Portfolio"
         },
         {
           "_inherit": "gallery1",
@@ -363,10 +363,14 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#191d26"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
-              "color": "#22252e"
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -379,14 +383,14 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": true,
@@ -394,9 +398,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=hw7oEdXyFdQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Me</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=hw7oEdXyFdQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch my Story</a>",
           "title": "Introduction to me",
-          "text": "\"Being different isnt bad thing. It means you're brave enought to be yourself.\""
+          "text": "\"Being different isn't bad thing. It means you're brave enought to be yourself.\""
         },
         {
           "_inherit": "social-buttons2",
