@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#0f0f10!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#161618"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -91,7 +91,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -241,7 +241,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#0a0b0b",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -308,7 +308,7 @@
             "spacing": "0",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#09090a",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
@@ -331,7 +331,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000",
+            "bgColor": "#050505",
             "showMeta": true
           },
           "title": "",
@@ -343,7 +343,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#f28281"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -411,12 +411,12 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1k",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#151618",
+            "bgColor": "#1a1a1b",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -437,7 +437,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#0b0b0b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -474,6 +474,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#100e0e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Mobirise.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -539,7 +564,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -808,7 +833,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-8",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1040,7 +1065,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-c",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1302,7 +1327,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-q",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1495,7 +1520,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1688,7 +1713,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0b0b0b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1790,7 +1815,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-19",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1867,7 +1892,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0b0b0b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1969,7 +1994,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1f",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2380,7 +2405,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0b0b0b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2482,7 +2507,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2623,7 +2648,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0b0b0b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2725,7 +2750,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1q",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#161618",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2823,7 +2848,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#0b0b0b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
