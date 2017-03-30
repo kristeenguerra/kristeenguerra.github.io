@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 70,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -277,7 +277,7 @@
             "spacing": "0",
             "showText": true,
             "filter": false,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
@@ -300,54 +300,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "",
           "meta": ""
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-14",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/1OCNVxh7dvA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "Adobe Premiere Pro",
-          "text": "Incoming video",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch My Videos</a>"
         },
         {
           "_styles": {
@@ -366,11 +323,49 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "&nbsp;",
           "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#191d26"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#22252e"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=hw7oEdXyFdQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click me</a>",
+          "title": "Introduction to me",
+          "text": "\"Being different isnt bad thing. It means you're brave enought to be yourself.\""
         },
         {
           "_inherit": "social-buttons2",
@@ -390,7 +385,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#151618",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -411,7 +406,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1800,6 +1795,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header1-1p",
           "_params": {
             "parallax": true,
@@ -1822,12 +1822,7 @@
           },
           "title": "Kristeen Guerra",
           "text": "I am  a student in the tech magnet at Miami Arts studio. I will learn how to use priemier<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
           "_tags": [

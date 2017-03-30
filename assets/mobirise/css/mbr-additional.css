@@ -485,22 +485,18 @@ h6,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box3-14 .mbr-section-title,
-#msg-box3-14 p {
-  color: #000;
-}
-#msg-box3-14 .mbr-section-title {
-  color: #ffffff;
-}
-#msg-box3-14 .lead {
-  color: #ffffff;
-}
 #header3-16 .mbr-section-title,
 #header3-16 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-16 H3 {
   color: #f28281;
+}
+#msg-box2-1x .mbr-section-title {
+  color: #191d26;
+}
+#msg-box2-1x .mbr-section-subtitle {
+  color: #22252e;
 }
 #social-buttons4-1k .mbr-section-title,
 #social-buttons4-1k .btn-social {
