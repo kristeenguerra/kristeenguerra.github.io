@@ -146,7 +146,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
