@@ -142,7 +142,7 @@
             "autoplay": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "timeout": 5,
+            "timeout": "5",
             "slides": [
               {
                 "active": true,
