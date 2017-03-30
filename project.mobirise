@@ -156,7 +156,7 @@
                 "showText": true,
                 "text": "Im Kristeen. Im a Tech Production student at Miami Arts Studio.<br>click the button below to learn more about me.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Bio continued</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Intro.html\" data-toolbar=\"-mbrBtnMove\">Bio continued</a> "
               },
               {
                 "active": false,
@@ -185,7 +185,7 @@
                 "showText": true,
                 "text": "<span style=\"font-style: normal;\">&nbsp;I create Drawings with Illustrator</span>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click for more</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Illustrator\" data-toolbar=\"-mbrBtnMove\">Click for more</a> "
               },
               {
                 "active": false,
@@ -1818,11 +1818,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "Kristeen Guerra",
-          "text": "I am  a student in the tech magnet at Miami Arts studio. I will learn how to use priemier<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+          "text": "I am  a student in the tech magnet at Miami Arts studio. I will learn how to use premiere and other adobe applications. I know how to use adobe illustrator and photoshop.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">bio&nbsp;<br></a> "
         },
         {
           "_tags": [
